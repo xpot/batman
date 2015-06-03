@@ -344,6 +344,8 @@ lt.object.behavior_STAR_.call(null,new cljs.core.Keyword("lt.plugins.python","ip
 }
 line1
 line2
-
+line3
+line4
+line5
 
 //# sourceMappingURL=python_compiled.js.map
