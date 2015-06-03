@@ -355,8 +355,10 @@ line6
 
 line2
 line3
+<<<<<<< HEAD
 
-line5
 
-
-llllllllllllllllllllllllll
+=======
+line4
+linezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+>>>>>>> 536542150fe1a1a53b61c5ec08165838d1142189
