@@ -351,3 +351,9 @@ line6
 
 
 //# sourceMappingURL=python_compiled.js.map
+
+
+line2
+line3
+
+line5
