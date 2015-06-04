@@ -342,23 +342,4 @@ lt.plugins.python.__BEH__ipython_exe = (function __BEH__ipython_exe(this$,exe){r
 });
 lt.object.behavior_STAR_.call(null,new cljs.core.Keyword("lt.plugins.python","ipython-exe","lt.plugins.python/ipython-exe",3560172368),new cljs.core.Keyword(null,"reaction","reaction",4441361819),lt.plugins.python.__BEH__ipython_exe,new cljs.core.Keyword(null,"desc","desc",1016984067),"Python: Set the path to ipython for clients",new cljs.core.Keyword(null,"params","params",4313443576),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"label","label",1116631654),"path",new cljs.core.Keyword(null,"type","type",1017479852),new cljs.core.Keyword(null,"path","path",1017337751)], null)], null),new cljs.core.Keyword(null,"triggers","triggers",2516997421),new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"object.instant","object.instant",773332388),null], null), null),new cljs.core.Keyword(null,"type","type",1017479852),new cljs.core.Keyword(null,"user","user",1017503549),new cljs.core.Keyword(null,"exclusive","exclusive",2700522000),true);
 }
-line1
-line2
-line3
-line4
-line5
-line6
 
-
-//# sourceMappingURL=python_compiled.js.map
-
-
-line2
-line3
-<<<<<<< HEAD
-
-
-=======
-line4
-linezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
->>>>>>> 536542150fe1a1a53b61c5ec08165838d1142189
